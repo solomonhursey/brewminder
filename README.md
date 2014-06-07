@@ -5,6 +5,7 @@ Brewing monitor and temperature regulator based on the Raspberry Pi
 
 
 --6.6.14--Initial Project Dump
+
 Current features:
 *Will read and log temperature with ThingSpeak service
 
