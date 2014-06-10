@@ -109,11 +109,11 @@ looploop()
 #begin main loop
 while True:
         #fetch data from sensors
-		temp = read_temp()
-		#bub = readbubblers()
-		temp1 = temp[0]
-		temp2 = temp[1]
-		temp3 = temp[2]
-		#bub1 = bub1 + bub[0]
-		#bub2 = bub2 + bub[1]
-		#bub3 = bub3 + bub[2]
+	temp = read_temp()
+	#bub = readbubblers()
+	temp1 = temp[0]
+	temp2 = temp[1]
+	temp3 = temp[2]
+	#bub1 = bub1 + bub[0]
+	#bub2 = bub2 + bub[1]
+	#bub3 = bub3 + bub[2]
